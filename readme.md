@@ -5,3 +5,5 @@ Hi there, I'm Alvin Dimas (used to be called Alvin) :grinning: <br>
 
 
 [![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin371)](https://github.com/alvin371/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin371)](https://github.com/alvin371/github-readme-stats)
