@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi there, I'm Alvin Dimas (used to be called Alvin) 😀<br>🧑‍💻 I’m currently working as Frontend Engineer at DOT Indonesia<br>😇 All of my projects are available at here<br>📧 Send me an email alvindimas8@gmail.com
 
 
